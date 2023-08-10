@@ -1,10 +1,10 @@
 :root {
-    --branco-principal: #1600da;
-    --cinza-secundario: #00c8e2;
-    --botao-azul: #167BF7;
-    --cor-de-fundo: #00030C;
+    --branco-principal: #ffffff;
+    --cinza-secundario: #da00e2;
+    --botao-azul: #ff1616;
+    --cor-de-fundo: #0c0000;
     --fonte-principal: 'Inter';
-    --botao-azul-efeito: #3c92fa;
+    --botao-azul-efeito: #fcfcfc;
 }
 
 body {
@@ -21,7 +21,7 @@ body {
 }
 
 .principal {
-    background-image: url("Design sem nome.jpg");
+    background-image: url("Design sem nome (1).jpg");
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
